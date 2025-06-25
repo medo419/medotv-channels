@@ -1,0 +1,64 @@
+{
+  "movies": [
+    {
+      "title": "Neighborhood Watch",
+      "image": "https://jzu4.github.io/files/img/IMG_8135.webp",
+      "categories": ["دراما", "جريمة", "تشويق"],
+      "url": "https://stream.fushaar.link/movie/49122/49122.mp4"
+    },
+    {
+      "title": "فيلم انترستيلر",
+      "image": "https://example.com/images/interstellar.jpg",
+      "categories": ["خيال علمي", "مغامرة", "دراما"],
+      "url": "https://example.com/watch/interstellar"
+    }
+  ],
+  "series": [
+    {
+      "title": "مسلسل العشرين",
+      "image": "https://example.com/images/narcos.jpg",
+      "categories": ["جريمة", "دراما", "تاريخ"],
+      "episodes": [
+        {
+          "title": "الحلقة 1",
+          "url": "https://clash.rosetta-one.online/videos/5532/5532_1_.m3u8"
+        },
+        {
+          "title": "الحلقة 2",
+          "url": "https://example.com/series/narcos/ep2"
+        },
+        {
+          "title": "الحلقة 3",
+          "url": "https://example.com/series/narcos/ep3"
+        }
+      ]
+    },
+    {
+      "title": "مسلسل تشيرنوبيل",
+      "image": "https://example.com/images/chernobyl.jpg",
+      "categories": ["دراما", "تاريخ", "تشويق"],
+      "episodes": [
+        {
+          "title": "الحلقة 1",
+          "url": "https://example.com/series/chernobyl/ep1"
+        },
+        {
+          "title": "الحلقة 2",
+          "url": "https://example.com/series/chernobyl/ep2"
+        },
+        {
+          "title": "الحلقة 3",
+          "url": "https://example.com/series/chernobyl/ep3"
+        },
+        {
+          "title": "الحلقة 4",
+          "url": "https://example.com/series/chernobyl/ep4"
+        },
+        {
+          "title": "الحلقة 5",
+          "url": "https://example.com/series/chernobyl/ep5"
+        }
+      ]
+    }
+  ]
+}
